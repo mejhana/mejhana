@@ -1,5 +1,6 @@
 ### Hello, I'm Meghana
 ## I'm a Junior at Amrita Vishwa Vidhyapeetam 
+:school:
 
 ### Connect with me:
 
