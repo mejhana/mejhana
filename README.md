@@ -11,7 +11,9 @@
 
 <br />
 
-##Top Languages 
+## Top Languages:
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mejhana)](https://github.com/mejhana/github-readme-stats)
 
 <br />
