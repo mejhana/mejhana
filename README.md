@@ -1,6 +1,9 @@
-### Hello, I'm Meghana
-## I'm a Junior at Amrita Vishwa Vidhyapeetam 
-:school:
+### Hello, I'm Meghana :wave:
+
+- :pencil2: Machine Learning Enthusiast 
+- :art: Amateur Blender Artist
+- :dancer: Bharatnatyam Dancer
+- :musical_note: Carnatic Singer
 
 ### Connect with me:
 
@@ -9,13 +12,6 @@
 [<img align="left" alt="mejhanaa | Artstation" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/artstation.svg" />][artstation]
 [<img align="left" alt="mejhanaa | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 [<img align="left" alt="mejhanaa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-
-## Top Languages:
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mejhana)](https://github.com/mejhana/github-readme-stats)
 
 <br />
 <br />
