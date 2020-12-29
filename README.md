@@ -5,7 +5,7 @@
 - :dancer: Bharatnatyam Dancer
 - :musical_note: Carnatic Singer
 
-### Connect with me:
+### Connect with me :phone:
 
 [<img align="left" alt="Meghana Rao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mejhanaa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
