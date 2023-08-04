@@ -9,7 +9,7 @@ I'm Meghana, a master's student at UCL studying computer graphics, vision and im
 
 ## 🔧 Technologies & Tools
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg/[#F5792A]" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg" />
 
 
 
