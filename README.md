@@ -7,12 +7,13 @@ I'm Meghana, a master's student at UCL studying computer graphics, vision and im
 
 
 ## 🔧 Technologies & Tools
+<p>
 <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/keras" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/opencv" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/blender" />
-
+</p>
 
 ## 📱 Connect with me 
 
@@ -56,8 +57,7 @@ I am currently working on text-conditioned human motion generation. Some of my o
 
 
 
-<br />
-<br />
+
 
 
 
