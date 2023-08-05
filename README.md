@@ -17,12 +17,10 @@ I'm Meghana, a master's student at UCL studying computer graphics, vision and im
 
 ## Connect with me on
 
-<p align="center">
-[<img align="centre" alt="Meghana Rao | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
-[<img align="centre" alt="mejhanaa | Instagram" width="22px" src="https://cdn.simpleicons.org/Instagram" />][instagram]
-[<img align="centre" alt="mejhanaa | Artstation" width="22px" src="https://cdn.simpleicons.org/artstation" />][artstation]
-[<img align="centre" alt="mejhanaa | Kaggle" width="22px" src="https://cdn.simpleicons.org/kaggle" />][kaggle]
-</p>
+[<img align="center" alt="Meghana Rao | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="center" alt="mejhanaa | Instagram" width="22px" src="https://cdn.simpleicons.org/Instagram" />][instagram]
+[<img align="center" alt="mejhanaa | Artstation" width="22px" src="https://cdn.simpleicons.org/artstation" />][artstation]
+[<img align="center" alt="mejhanaa | Kaggle" width="22px" src="https://cdn.simpleicons.org/kaggle" />][kaggle]
 
 [twitter]: https://twitter.com/mejhanaa
 [artstation]:https://www.artstation.com/mejhana
