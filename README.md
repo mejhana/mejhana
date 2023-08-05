@@ -1,13 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World!</h1>
+<h1>Hello World! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
 I'm Meghana, a master's student at UCL studying computer graphics, vision and imaging. 
 
 
-## 🤓 Research Interests
+## Research Interests
 
 
-## 🔧 Technologies & Tools
-<p>
+## Technologies & Tools
+<p align-"centre"> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/keras" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch" />
@@ -15,7 +15,7 @@ I'm Meghana, a master's student at UCL studying computer graphics, vision and im
 <img height="32" width="32" src="https://cdn.simpleicons.org/blender" />
 </p>
 
-## 📱 Connect with me 
+## Connect with me 
 
 [<img align="left" alt="Meghana Rao | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
 [<img align="left" alt="mejhanaa | Instagram" width="22px" src="https://cdn.simpleicons.org/Instagram" />][instagram]
