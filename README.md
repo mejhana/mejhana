@@ -15,12 +15,12 @@ I'm Meghana, a master's student at UCL studying computer graphics, vision and im
 <img height="32" width="32" src="https://cdn.simpleicons.org/blender" />
 </p>
 
-## Connect with me 
+## Connect with me on
 
-[<img align="left" alt="Meghana Rao | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
-[<img align="left" alt="mejhanaa | Instagram" width="22px" src="https://cdn.simpleicons.org/Instagram" />][instagram]
-[<img align="left" alt="mejhanaa | Artstation" width="22px" src="https://cdn.simpleicons.org/artstation" />][artstation]
-[<img align="left" alt="mejhanaa | Kaggle" width="22px" src="https://cdn.simpleicons.org/kaggle" />][kaggle]
+[<img align="centre" alt="Meghana Rao | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="centre" alt="mejhanaa | Instagram" width="22px" src="https://cdn.simpleicons.org/Instagram" />][instagram]
+[<img align="centre" alt="mejhanaa | Artstation" width="22px" src="https://cdn.simpleicons.org/artstation" />][artstation]
+[<img align="centre" alt="mejhanaa | Kaggle" width="22px" src="https://cdn.simpleicons.org/kaggle" />][kaggle]
 
 
 [twitter]: https://twitter.com/mejhanaa
@@ -28,8 +28,3 @@ I'm Meghana, a master's student at UCL studying computer graphics, vision and im
 [instagram]: https://www.instagram.com/mejhanaa/
 [linkedin]: https://www.linkedin.com/in/meghana99/
 [kaggle]: https://www.kaggle.com/mejhana
-
-- :pencil2: Machine Learning Enthusiast 
-- :art: Amateur Blender Artist
-- :dancer: Bharatnatyam Dancer
-- :musical_note: Carnatic Singer
