@@ -3,7 +3,7 @@
 I'm Meghana, a master's student at UCL studying computer graphics, vision and imaging. I am currently working on text-conditioned human motion generation. Some of my other work is on facial motion capture. 
 
 
-## Research Interests
+<!-- ## Research Interests
 
 
 ## Technologies & Tools
@@ -26,4 +26,4 @@ I'm Meghana, a master's student at UCL studying computer graphics, vision and im
 [artstation]:https://www.artstation.com/mejhana
 [instagram]: https://www.instagram.com/mejhanaa/
 [linkedin]: https://www.linkedin.com/in/meghana99/
-[kaggle]: https://www.kaggle.com/mejhana
+[kaggle]: https://www.kaggle.com/mejhana -->
